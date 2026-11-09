@@ -1,3 +1,5 @@
+> **Moved.** `whats-next` now lives in [arthamegayasa/nam-stack](https://github.com/arthamegayasa/nam-stack/tree/main/skills/engineering/whats-next) with my other skills. This repo is archived.
+
 # whats-next
 
 A [Claude Code](https://claude.com/claude-code) skill. When nothing is in flight, it scouts a repo for the five most valuable things to do next: ranked, evidence-backed, product quality first.
